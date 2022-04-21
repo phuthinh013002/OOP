@@ -2,6 +2,7 @@
 =====> INHERITANCE <=====
 Base Class: People (name, age, address)
 Derived Class: Students (name, age, address, id, math, physical, chemistry, GPA)
+Link: https://nguyenvanhieu.vn/bai-tap-cpp-ve-tinh-ke-thua/#bai-tap-1
 */
 #include <iostream>
 #include <cstring>
