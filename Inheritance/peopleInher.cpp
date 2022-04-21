@@ -1,3 +1,8 @@
+/*
+=====> INHERITANCE <=====
+Base Class: People (name, age, address)
+Derived Class: Students (name, age, address, id, math, physical, chemistry, GPA)
+*/
 #include <iostream>
 #include <cstring>
 using namespace std;
