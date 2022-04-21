@@ -12,12 +12,11 @@ using namespace std;
 class infoEmployee
 {
     private:
-        
-    public:
         char name[20];
         int number;
         char dateOfBirth[10];
         char address[20];
+    public:
         void infoInput(char* na, int num, char* dB, char* ad)
         {
             strcpy(this->name, na);
